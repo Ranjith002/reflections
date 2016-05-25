@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It helps me to make a git repository so as to track the changes.
